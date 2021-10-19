@@ -1,0 +1,10 @@
+name: Spimetheus
+version: ${project.version}
+main: tokyo.ini.spimetheus.Spimetheus
+api-version: 1.17
+commands:
+  spi:
+    description: spimetheus cmd
+    aliases:
+      - spimetheus
+      - spim
